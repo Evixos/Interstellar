@@ -7,7 +7,8 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     interstellar: "passwords",
-    test: "test"
+    test: "test",
+    SIGMA: "DMS"
   },
 };
 
